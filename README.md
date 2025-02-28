@@ -23,6 +23,12 @@ Key Functions
 # Main Execution Block
 The script's main execution block is where the user specifies the file to monitor. Initially, it calculates the hash of the specified file and stores it in a .hash file. After storing the hash, it calls the check_file_integrity function to verify the file's integrity. This structure allows the user to run the script multiple times to monitor the file over time.
 
+# OUTPUT of TASK 1
+
+- As you can see my hash are changing when I change my txt files
+
 ![Screenshot 2025-02-28 161907](https://github.com/user-attachments/assets/6c4c0167-5395-4a9a-ba88-89e3377fe8de)
 ![Screenshot 2025-02-28 161923](https://github.com/user-attachments/assets/be35a790-63c6-455f-b15c-a9157edc4126)
+
+
 
